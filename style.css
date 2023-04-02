@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(233, 204, 168);
+  justify-content: center;
+  text-align:  center;
+  align-items: center;
+  display: flex;
+}
+
+.new {
+    margin: -19px;
+    width: 2000px;
+    height: 60px;
+    color: antiquewhite;
+    border: solid black 2px;
+    background-color: rgb(43, 153, 153);
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    
+    
+}
+
+#li{
+    margin: 30px;
+}
+
+#note {
+    height: 70px;
+    
+}
+
+#des {
+    margin-right: 50px;
+    margin-top: -28px;
+}
+
+#date {
+    margin-right: 50px;
+    margin-top: 2px;
+    
+
+}
+
+#notes {
+    margin-right: 0px;
+
+}
+
+.create {
+    margin-top: 15px;
+    background-color: rgb(108, 108, 152);
+    color: rgb(242, 234, 234);
+    border-radius: 2px;
+    
+    
+}
+
+#yesb{
+    color: rgb(231, 218, 218);
+    background-color: rgb(214, 59, 59);
+}
+
+#nob{
+    color: rgb(231, 218, 218);
+    background-color: rgb(2, 78, 100);
+}
